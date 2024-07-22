@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4486c6a0-a23d-4ad0-914d-6797cba160ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../dinnerScan_vux/src/components/scan/pmxScan.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../dinnerScan_vux/src/components/scan/pmxScan.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.1\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26k1QtvkezKyYKR4IqcyDV6gEOq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dinnerscan_wx" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DinnerscanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dinnerscan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.primax.dinnerscan.DinnerscanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4486c6a0-a23d-4ad0-914d-6797cba160ca" name="Changes" comment="" />
+      <created>1647952758805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647952758805</updated>
+      <workItem from="1647952760155" duration="4056000" />
+      <workItem from="1648602910579" duration="84000" />
+      <workItem from="1648603821763" duration="537000" />
+      <workItem from="1652067545246" duration="4490000" />
+      <workItem from="1652240588885" duration="1486000" />
+      <workItem from="1652535864500" duration="5000" />
+      <workItem from="1656462472774" duration="3370000" />
+      <workItem from="1660786656486" duration="762000" />
+      <workItem from="1679014914133" duration="2914000" />
+      <workItem from="1688708988850" duration="2745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/primax/dinnerscan/controller/DinnerScanRest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
